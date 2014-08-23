@@ -1,0 +1,6 @@
+{
+	"name":"socket-chatApp",
+	"version":"0.0.1",
+	"description":"Trying out sockets using chatApp ",
+	"dependencies":{}
+}
